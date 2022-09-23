@@ -6,6 +6,7 @@
     "author": "WickedKing",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
+    "system": ["dnd5e"],
     "packs": [
         {
             "name": "maps",
@@ -22,7 +23,7 @@
             "private": false
           },
           {
-            "name": "macros",
+            "name": "items",
             "label": "Wicked Items",
             "path": "/packs/test-items.db",
             "entity": "Item",
