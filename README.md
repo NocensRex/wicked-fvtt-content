@@ -1,3 +1,3 @@
 # My Content Module
 
-A template for creating your own Foundry VTT content module.
+This is just a module for me tho share contemt between different machines
